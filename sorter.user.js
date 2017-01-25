@@ -4,9 +4,9 @@
 // @updateURL       https://github.com/xyzith/raidloot_aa_sorter/raw/master/sorter.user.js
 // @grant           none
 // @author          Taylor Tang
-// @version         1.0
-// @description     Able to sort aa at http://www.raidloot.com/AA.aspx*
-// @match           http://www.raidloot.com/AA.aspx
+// @version         1.1
+// @description     Able to sort aa at http://www.raidloot.com/AA.aspx
+// @match           http://www.raidloot.com/AA.aspx*
 // ==/UserScript==
 
 (function(){
