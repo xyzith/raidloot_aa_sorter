@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Raidloot AA Sorter
 // @namespace       ttang.tw
-// @updateURL       https://raw.githubusercontent.com/xyzith/raidloot_aa_sorter/master/sorter.js
+// @updateURL       https://github.com/xyzith/raidloot_aa_sorter/raw/master/sorter.user.js
 // @grant           none
 // @author          Taylor Tang
 // @version         1.0
